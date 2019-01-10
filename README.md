@@ -1,2 +1,1 @@
-# .NetCore2
-this is sample
+this is My first repo readme file
